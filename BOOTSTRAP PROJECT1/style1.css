@@ -1,0 +1,96 @@
+html{
+    scroll-behavior: smooth;
+}
+.text{
+    letter-spacing: 4px;
+}
+.text:hover{
+    background-color: #aba9a2;
+}
+.ah:hover{
+    background-color: #aba9a2;
+}
+
+body{
+    font-family: "Merriweather", serif;
+}
+.ulh{
+    box-shadow: 2px 2px 2px #ebe8e1;
+}
+.ima1{
+    width: 100%;
+    height: auto;
+}
+.mid1{
+    letter-spacing: 6px;
+}
+.container{
+    margin-top: 50px;
+}
+.mid2{
+    letter-spacing: 4px;
+}
+.midp2{
+    color: #b0afab;
+}
+#about{
+    border: 1px solid #f0efed;
+}
+.heading h3{
+    letter-spacing: 4px;
+    padding: 12px 10px;
+    margin-bottom: 35px;
+}
+.heading1 h5{
+    letter-spacing: 4px;
+}
+.heading2 h5{
+    letter-spacing: 4px;
+}
+.heading3 h5{
+    letter-spacing: 4px;
+}
+.heading4 h5{
+    letter-spacing: 4px;
+}
+.heading5 h5{
+    letter-spacing: 4px;
+}
+p{
+    color: #a8a8a8;
+}
+.heading1{
+    padding:20px 10px;
+}
+.heading2{
+    padding:20px 10px;
+}
+.heading3{
+    paddingp:20px 10px;
+}
+.heading4{
+    padding:20px 10px;
+}
+.heading5{
+    padding:20px 10px;
+}
+.conatct-box{
+    border: 1px solid #edf0ed;
+    padding: 30px 20px;
+}
+
+.contact h3{
+    letter-spacing: 4px;
+}
+.contacth h5{
+    color: #768c77;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 120px;
+    width: 100%;
+    background-color:#f1f2f0;
+}
